@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5885a877-6dc8-46e8-99b5-bb69d0eda726" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/question10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/question11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/question7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/question8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/question9.kt" afterDir="false" />
+    <list default="true" id="5885a877-6dc8-46e8-99b5-bb69d0eda726" name="Changes" comment="all prac">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/question2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/question2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/question3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/question3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/question4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/question4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/question5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/question5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/question6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/question6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661187307441</updated>
     </task>
+    <task id="LOCAL-00001" summary="all prac1">
+      <created>1661366713370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661366713370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all prac1" />
+    <option name="LAST_COMMIT_MESSAGE" value="all prac1" />
   </component>
 </project>
