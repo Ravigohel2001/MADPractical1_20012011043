@@ -45,4 +45,17 @@ Question-10:
 Question-11:
 ![11](https://user-images.githubusercontent.com/110518776/186501627-95d86fb4-46be-4346-bb49-d296bc92f2d8.png)
 
+exercise-1
+![ex1](https://user-images.githubusercontent.com/110518776/187115978-cdf9dc7e-a659-47a2-b789-1340fba39301.png)
 
+exercise-2.1
+![ex2 1](https://user-images.githubusercontent.com/110518776/187115995-644c8728-164c-401f-9568-b1274e59f67c.png)
+
+exercise-2.2
+![ex2 2](https://user-images.githubusercontent.com/110518776/187116011-5bafab75-b4eb-4c4e-b91d-855165a9886c.png)
+
+exercise-3.1
+![ex3 1](https://user-images.githubusercontent.com/110518776/187116023-a0fcc73d-f832-4a3f-a90e-b06849b1d9db.png)
+
+exercise-3.2
+![ex3 2](https://user-images.githubusercontent.com/110518776/187116042-fa018375-69b3-4307-a5a1-532dd8478b84.png)
